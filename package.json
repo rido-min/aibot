@@ -2,6 +2,8 @@
   "main": "index.ts",
   "type": "module",
   "dependencies": {
-    "@microsoft/teams.apps": "latest"
+    "@ai-sdk/openai": "latest",
+    "@microsoft/teams.apps": "latest",
+    "ai": "latest"
   }
 }
